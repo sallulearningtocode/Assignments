@@ -207,7 +207,7 @@ int main()
    return 0;
 }*/
 
-/*9.Write a program to find the sum of any number using functions
+/*9.Write a program to find the square of any number using functions.
 int square(int n)
 {return n*n;}
 int main()
